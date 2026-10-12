@@ -13,6 +13,7 @@ public class Demo {
         list.add("C");
         list.add("D");
         list.add("E");
+
         list.add("F");
         list.forEach(System.out::println); // functional interface - ?
         //the above is a method reference
